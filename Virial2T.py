@@ -1,3 +1,5 @@
+# SINGLE COMPONENT TWO TERM VIRIAL CALCULATION
+
 from math import pow,exp
 print(__name__)
 Tc = float(input("Tc:"))
