@@ -1,3 +1,5 @@
+# SINGLE COMPONENT PENG ROBINSON CALCULATION
+
 from funcs import coef,alpha,beta,queue,calcZ_PR,calcI,calclnterm,GroverRT,HroverRT,SroverR
 from math import sqrt,pow,cos,acos,pi,log,exp
 print(__name__)
