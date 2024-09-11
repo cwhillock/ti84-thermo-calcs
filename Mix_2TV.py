@@ -1,3 +1,5 @@
+#MULTI COMPONENT TWO TERM VIRIAL CALCULATION
+
 from funcs import calcBhat,calcB
 from math import sqrt,pow,exp
 print(__name__)
