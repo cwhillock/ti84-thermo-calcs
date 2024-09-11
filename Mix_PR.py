@@ -1,3 +1,5 @@
+#MULTI COMPONENT PENG ROBINSON CALCULATION
+
 from funcs import calcPRa,calcPRb,calcZ_PR,calcI
 from math import sqrt,pow,exp,log
 print(__name__)
