@@ -1,3 +1,5 @@
+# HOLDS ALL CALLABLE FUNCTIONS
+
 from math import sqrt,pow,cos,acos,pi,log,exp
 print(__name__)
 s = 1 + sqrt(2)
